@@ -28,4 +28,5 @@ Replace 'code' in the script with your realm code
 
 # 👤 Credits
 coded by: raks
-Library Used: [bedrock-protocol](https://github.com/PrismarineJS/bedrock-protocol)
+
+library used: [bedrock-protocol](https://github.com/PrismarineJS/bedrock-protocol)
