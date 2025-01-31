@@ -1,8 +1,3 @@
-// to run this script you will first have to install node.js
-// after u have installed node.js you can open cmd
-// and type 'npm install bedrock-protocol
-// then you can run this script by typing 'node main.js'
-// in the cmd. the cmd needs to be in the same directory as the script.
 const codedbyraks = require('bedrock-protocol');
 
 const invite = 'code';
