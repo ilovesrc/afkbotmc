@@ -27,6 +27,6 @@ node main.js
 Replace 'code' in the script with your realm code
 
 # 👤 Credits
-coded by: raks
+coded by: [raks](https://discord.com/users/1307775273131049082)
 
 library used: [bedrock-protocol](https://github.com/PrismarineJS/bedrock-protocol)
